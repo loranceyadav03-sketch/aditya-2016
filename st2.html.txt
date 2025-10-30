@@ -1,0 +1,47 @@
+<!doctype html>
+<header>
+<tittle> web page resuming </tittle>
+</header>
+
+<body>
+<h1>introduction</h1>
+<p> abes engineering collage, gaziyabad </p>
+
+<b>it use for bold </b>
+<u> use for underline </u>
+<i> use for italic </i>
+
+
+//order list
+<ol>
+<li> c++ </li>
+<li> js </li>
+<li> php </li>
+</ol>
+
+
+//unorder list
+<ul>
+<li> apple </li>
+<li> mango </li>
+<li> orangs </li>
+</ul>
+
+//discription list
+<dl> my fist web page in copy </dl>
+
+
+// mixed list
+<ol>
+<h2> mixed list </h2>
+<li>c++ </li>
+<ul>
+<li> c++ is my first language </li>
+</ul>
+<li>js </li>
+<ul>
+<li>i have knowlage in js </li>
+</ol>
+
+</body>
+</html>
